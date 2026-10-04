@@ -1,1 +1,2 @@
 Hi, I'm Jayve Villarube, an IT student.
+Skills: HTML, CSS
